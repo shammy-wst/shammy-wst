@@ -8,7 +8,7 @@ echo "
 │                                                                  │
 │   > cat profile.json                                             │
 │   {                                                              │
-│     \"age\": 20,                                                 │
+│     \"age\": 21,                                                 │
 │     \"location\": \"France\",                                    │
 │     \"occupation\": \"Freelance Web Developer\",                 │
 │     \"education\": \"Bachelor in Web Development (Final Year)\"  │
@@ -30,7 +30,7 @@ echo "
 │   Goals: Building a serious business                             │
 │                                                                  │  
 │   > contact --info                                               │
-│   📧 icham.mmadi@gmail.com                                       │
+│   📧 aminichammmadi@gmail.com                                    │
 │   🌐 https://icham-mmadi.fr                                      │
 │   💼 https://github.com/icham-mmadi                              │      
 │                                                                  │
